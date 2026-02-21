@@ -1,0 +1,47 @@
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+.virtualenv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Logs
+*.log
+
+# IDE and editor settings
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Cache directories
+.cache/
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.lock
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
